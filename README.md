@@ -59,4 +59,4 @@ This project uses the following components:
 | Wire               | Wire < 14 Guage recommended for power else < 20 Gauge          |
 | Chassis            | 3D printed (PLA) or injection molding                          | 
 
-<div><img src="/images/dspmodelbottom.png" alt="before" height="350"><img src="/images/dpsmodeltop.png" alt="before" height="350"></div>
+<div><img src="/images/dspmodelbottom.png" alt="before" height="300"><img src="/images/dpsmodeltop.png" alt="before" height="300"></div>
