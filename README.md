@@ -20,7 +20,27 @@ This project uses the following components:
 | Wire               | Speaker wire < 14 Guage recommended                            |
 | Screws & misc      | Screws, wire connectors                                        | 
 
-<div> <img src="/images/model.png" alt="before" height="500"><img src="/images/padding.jpg" alt="before" height="500"><img src="/images/testing.jpg" alt="before" height="500"><img src="/images/white finish.jpg" alt="before" height="500"><img src="/images/black finish.jpg" alt="before" height="500"><img src="/images/speaker.jpg" alt="before" height="500"> </div>
+<div> <img src="/images/model.png" alt="before" height="500"><img src="/images/padding.jpg" alt="before" height="500"><img src="/images/testing.jpg" alt="before" height="500"><img src="/images/white finish.png" alt="before" height="500"><img src="/images/black finish.jpg" alt="before" height="500"><img src="/images/speaker.jpg" alt="before" height="500"> </div>
+
+## B&R DSP Amplifier
+
+This is an amplifier module with internal power supply as well as internal DSP and DAC customizable via usb-c port on the back.
+It can be used for audio development but also provides a novel way of powering speakers via the DSP serving as a centralized active crossover.
+This project uses the following components:
+
+| Component          | Part                                                           | 
+|--------------------|----------------------------------------------------------------|
+| DSP                | ADAU1452                                                       | 
+| DAC                | AD1938                                                         | 
+| Amplifier          | Sure Electronics AA-AB34181                                    | 
+| Power Supply       | 12mm MDF at least 18mm+ recommended                            | 
+| Power filter       | 10uH inductor in series and 3 x ~30uF capacitor in parallel    | 
+| Buttons            | Power button and momentary switches for options                | 
+| Volume dial        | Good quality potentiometer with dial                           | 
+| Wire               | Wire < 14 Guage recommended for power else < 20 Gauge          |
+| Chassis            | 3D printed (PLA) or injection molding                          | 
+
+<div><img src="/images/dpsmodeltop.png" alt="before" height="250"><img src="/images/dspmodelbottom.png" alt="before" height="250"><img src="/images/dspbottom.png" alt="before" height="250"><img src="/images/dspbottom.png" alt="before" height="250"></div>
 
 ## B&R BS MK.1
 
@@ -41,22 +61,5 @@ This project uses the following components:
 
 <img src="/images/bsmodel.png" alt="before" width="500">
 
-## B&R DSP Amplifier
+Build in progress more images will be uploaded sooo.
 
-This is an amplifier module with internal power supply as well as internal DSP and DAC customizable via usb-c port on the back.
-It can be used for audio development but also provides a novel way of powering speakers via the DSP serving as a centralized active crossover.
-This project uses the following components:
-
-| Component          | Part                                                           | 
-|--------------------|----------------------------------------------------------------|
-| DSP                | ADAU1452                                                       | 
-| DAC                | AD1938                                                         | 
-| Amplifier          | Sure Electronics AA-AB34181                                    | 
-| Power Supply       | 12mm MDF at least 18mm+ recommended                            | 
-| Power filter       | 10uH inductor in series and 3 x ~30uF capacitor in parallel    | 
-| Buttons            | Power button and momentary switches for options                | 
-| Volume dial        | Good quality potentiometer with dial                           | 
-| Wire               | Wire < 14 Guage recommended for power else < 20 Gauge          |
-| Chassis            | 3D printed (PLA) or injection molding                          | 
-
-<div><img src="/images/dpsmodeltop.png" alt="before" height="250"><img src="/images/dspmodelbottom.png" alt="before" height="250"></div>
