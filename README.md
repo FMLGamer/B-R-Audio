@@ -20,7 +20,7 @@ This project uses the following components:
 | Wire               | Speaker wire < 14 Guage recommended                            |
 | Screws & misc      | Screws, wire connectors                                        | 
 
-<div> <img src="/images/model.png" alt="before" height="600"><img src="/images/speaker.jpg" alt="before" height="600"> </div>
+<div> <img src="/images/model.png" alt="before" height="500"><img src="/images/padding.jpg" alt="before" height="500"><img src="/images/testing.jpg" alt="before" height="500"><img src="/images/white finish.jpg" alt="before" height="500"><img src="/images/black finish.jpg" alt="before" height="500"><img src="/images/speaker.jpg" alt="before" height="500"> </div>
 
 ## B&R BS MK.1
 
