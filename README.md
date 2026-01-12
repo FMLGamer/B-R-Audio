@@ -1,14 +1,3 @@
-## B&R AUDIO
-<!-- PROJECT LOGO -->
-From idea
-
-<img src="/images/model.png" alt="before" width="500">
-
-to reality
-
-<img src="/images/speaker.jpg" alt="before" width="500">
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -31,7 +20,7 @@ This project uses the following components:
 | Wire               | Speaker wire < 14 Guage recommended                            |
 | Screws & misc      | Screws, wire connectors                                        | 
 
-<img src="/images/model.png" alt="before" width="500">
+<div> <img src="/images/model.png" alt="before" width="500"><img src="/images/speaker.jpg" alt="before" width="500"> </div>
 
 ## B&R BS MK.1
 
