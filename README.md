@@ -1,9 +1,12 @@
 ## B&R AUDIO
 <!-- PROJECT LOGO -->
 From idea
-[<img src="/images/model.png" alt="before" width="500">]
+
+<img src="/images/model.png" alt="before" width="500">
+
 to reality
-[<img src="/images/speaker.jpg" alt="before" width="500">]
+
+<img src="/images/speaker.jpg" alt="before" width="500">
 
 
 <!-- ABOUT THE PROJECT -->
@@ -28,7 +31,7 @@ This project uses the following components:
 | Wire               | Speaker wire < 14 Guage recommended                            |
 | Screws & misc      | Screws, wire connectors                                        | 
 
-[<img src="/images/model.png" alt="before" width="500">]
+<img src="/images/model.png" alt="before" width="500">
 
 ## B&R BS MK.1
 
@@ -47,7 +50,7 @@ This project uses the following components:
 | Wire               | Speaker wire < 14 Guage recommended                            |
 | Screws & misc      | Screws, wire connectors                                        | 
 
-[<img src="/images/bsmodel.png" alt="before" width="500">]
+<img src="/images/bsmodel.png" alt="before" width="500">
 
 ## B&R DSP Amplifier
 
@@ -67,5 +70,5 @@ This project uses the following components:
 | Wire               | Wire < 14 Guage recommended for power else < 20 Gauge          |
 | Chassis            | 3D printed (PLA) or injection molding                          | 
 
-[<img src="/images/dspmodelbottom.png" alt="before" width="500">]
-[<img src="/images/dspmodeltop.png" alt="before" width="500">]
+<img src="/images/dspmodelbottom.png" alt="before" width="500">
+<img src="/images/dspmodeltop.png" alt="before" width="500">
