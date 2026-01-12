@@ -40,7 +40,7 @@ This project uses the following components:
 | Wire               | Wire < 14 Guage recommended for power else < 20 Gauge          |
 | Chassis            | 3D printed (PLA) or injection molding                          | 
 
-<div><img src="/images/dpsmodeltop.png" alt="before" height="250"><img src="/images/dspmodelbottom.png" alt="before" height="250"><img src="/images/dspbottom.jpg" alt="before" height="250"><img src="/images/dspbottom.jpg" alt="before" height="250"></div>
+<div><img src="/images/dpsmodeltop.png" alt="before" height="250"><img src="/images/dspmodelbottom.png" alt="before" height="250"><img src="/images/dsptop.jpg" alt="before" height="300"><img src="/images/dspbottom.jpg" alt="before" height="300"></div>
 
 ## B&R BS MK.1
 
